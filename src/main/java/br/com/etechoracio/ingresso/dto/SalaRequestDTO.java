@@ -1,4 +1,4 @@
 package br.com.etechoracio.ingresso.dto;
 
-public record SalaResponseDTO() {
+public class SalaRequestDTO {
 }
